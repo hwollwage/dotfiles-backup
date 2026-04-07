@@ -1,1 +1,1 @@
-configs for backup in case my linux tweaking
+backup for my linux configs
